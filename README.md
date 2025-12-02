@@ -15,8 +15,7 @@ The robot included:
 * Simple autonomous routines
 * Controller bindings for match and skills
 
-> **Robot Image Placeholder:**
-> `![Robot](path/to/image.png)`
+> ![Robot](image.png)
 
 ## Project Structure
 
